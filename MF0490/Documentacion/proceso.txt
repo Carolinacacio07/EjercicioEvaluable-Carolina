@@ -1,0 +1,12 @@
+•	Cómo has creado y obtenido el repositorio.
+-He creado el repositorio desde la web github y lo he clonado con git clone.
+•	Cómo has creado y utilizado la rama de trabajo.
+-He creado la rama de trabajo con git switch -c y el nombre de la rama 
+•	Cómo has creado los archivos.
+-Utilizando el comando Touch.
+•	Cómo has guardado los cambios.
+-Los añadi con add  y los fui guardando en la historia local haciendo git commit.
+•	Cómo has publicado el trabajo en GitHub.
+-Utilizando git push  -u origin head 
+•	Cómo has integrado finalmente el trabajo en main.
+-Con git push origin main
