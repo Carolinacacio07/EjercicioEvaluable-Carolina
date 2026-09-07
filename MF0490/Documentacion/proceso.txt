@@ -10,3 +10,4 @@
 -Utilizando git push  -u origin head 
 •	Cómo has integrado finalmente el trabajo en main.
 -Con git push origin main
+COMPROBACIÓN DEL RESULTADO FINAL.
